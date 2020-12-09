@@ -8,7 +8,7 @@ on:
       name:
         description: 'Bot Unique Name'
         required: true
-        default: 'Dabblelab_IVA'
+        default: 'Dabblelab-IVA'
 
 jobs:
   build:
