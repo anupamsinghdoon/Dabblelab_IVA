@@ -1,7 +1,7 @@
 {
-    "friendlyName" : "Dev Bot for Anupam",
+    "friendlyName" : "Dabblelab_IVA",
     "logQueries" : true,
-    "uniqueName" : "dev-Anupam",
+    "uniqueName" : "Dabblelab_IVA",
     "defaults" : {
         "defaults" : {
             "assistant_initiation" : "task://greeting",
