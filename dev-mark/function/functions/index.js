@@ -28,7 +28,7 @@ const fallbackHandler = require(assets['/fallback_task.js'].path);
 exports.handler = async (context, event, callback) => {
   const { CurrentTask } = event;
 
-  // calling task handlers
+  // calling task handlers...
   switch (CurrentTask) {
     case 'greeting':
       await greetingTaskHandler(context, event, callback);
